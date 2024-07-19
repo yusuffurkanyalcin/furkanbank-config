@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to FurkanBank loans related QA APIs "
+  contactDetails:
+    name: "Yusuf Furkan - QA Lead"
+    email: "furkan@furkanbank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
