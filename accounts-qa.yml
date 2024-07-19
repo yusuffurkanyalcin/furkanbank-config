@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to FurkanBank accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
+    name: "Yusuf Furkan - QA Lead"
     email: "smitha@eazybank.com"
   onCallSupport:
     - (666) 265-3765
