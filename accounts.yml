@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to FurkanBank accounts related docker APIs "
+  message: "Welcome to FurkanBank accounts related default docker APIs "
   contactDetails:
     name: "Yusuf Furkan - Developer"
     email: "furkan@furkanbank.com"
